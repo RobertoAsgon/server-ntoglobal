@@ -61,7 +61,7 @@ advancedFragList = false
 
 -- Connection Config
 -- NOTE: maxPlayers set to 0 means no limit
-ip = "#IP"
+ip = "192.99.140.43"
 bindOnlyGlobalAddress = false
 loginProtocolPort = 7171
 gameProtocolPort = 7172
@@ -106,7 +106,7 @@ mapAuthor = "Eros"
 sqlType = "mysql"
 mysqlHost = "127.0.0.1"
 mysqlUser = "root"
-mysqlPass = "#SENHA"
+mysqlPass = "server1346"
 mysqlDatabase = "nto"
 mysqlPort = 3306
 mysqlSock = ""
@@ -115,7 +115,7 @@ passwordType = "sha1"
 sqlHost = "localhost"
 sqlPort = 3306
 sqlUser = "root"
-sqlPass = "#SENHA"
+sqlPass = "server1346"
 sqlDatabase ="nto"
 sqlFile = "nto.s3db"
 sqlKeepAlive = 0
