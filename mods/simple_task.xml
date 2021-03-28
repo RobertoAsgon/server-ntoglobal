@@ -98,7 +98,7 @@ end
 
 function GetRankTask(cid)
 	local ranks = {
-		[{0, 19}] = "Aluno Academy", 
+		[{0, 19}] = "Academy", 
 		[{20, 39}] = "Genin",
 		[{40, 59}] = "Chunin",
 		[{60, 99}] = "Jounin",		
