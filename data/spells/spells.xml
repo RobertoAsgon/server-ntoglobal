@@ -11,7 +11,6 @@
 	</instant>
 	<instant name="For Support" words="Bunshin no Jutsu" lvl="15" mana="750" prem="0" blockwalls="1" exhaustion="1000" needlearn="0" event="script" value="bunshin.lua">
 	</instant>
-	<!-- news -->
 	<instant name="healmaster" words="healmaster" lvl="0" mana="0" prem="0" aggressive="0" exhaustion="1500" needlearn="1" event="script" value="healmonster.lua">
     <vocation id="0"/>
 	</instant> 
@@ -251,8 +250,8 @@
 	<instant name="For Buff" words="Shoshoryu Concentrated" aggressive="0" prem="0" selftarget="1" lvl="110" mana="5000" exhaustion="1" event="script" value="personagem/tenten/supreme shoshoryu.lua">
 	<vocation id="6"/> 
 	</instant>
-	<!-- Gaara Jutsus -->
 	
+	<!-- Gaara Jutsus -->
 	<instant name="For Attack" words="Sabaku Rou" lvl="10" mana="20" aggressive="1" range="6" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/gaara/1sabakurou.lua">
 	<vocation id="7"/> 
 	</instant>	
@@ -326,7 +325,6 @@
 	</instant>
 	
 	<!-- Shikamaru Jutsus -->
-	
 	<instant name="For Attack" words="Hikaridama" lvl="10" mana="20" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/shikamaru/1hikaridama.lua">
 	<vocation id="9"/> 	
 	</instant>
@@ -362,7 +360,6 @@
 	</instant>
 	
 	<!-- Chouji Jutsus -->
-	
 	<instant name="For Attack" words="Nikudan Palm" lvl="10" mana="20" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/chouji/1nikudan palm.lua">
 	<vocation id="10"/>
 	</instant>
@@ -429,6 +426,7 @@
 	<instant name="For Buff" words="Suiton Goshoha" aggressive="0" prem="0" selftarget="1" lvl="65" mana="500" exhaustion="1" event="script" value="personagem/kisame/buff.lua">
 	<vocation id="21"/> 
 	</instant>
+
 	<!-- Konan -->
 	<instant name="For Attack" words="Paper Shuriken" lvl="10" mana="20" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/konan/1shuriken paper.lua">
 	<vocation id="22"/> 
@@ -463,6 +461,7 @@
 	<instant name="For Buff" words="Kami Especialist" aggressive="0" prem="0" selftarget="1" lvl="65" mana="500" exhaustion="1" event="script" value="personagem/konan/especialist.lua">
 	<vocation id="22"/> 
 	</instant>
+	
 	<!-- Temari -->
 	<instant name="For Attack" words="Futon Kiodai" lvl="10" mana="20" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/temari/1futon kiodai.lua">
 	<vocation id="23"/> 	
@@ -542,6 +541,7 @@
 	<instant name="For Buff" words="Kurama Feet" aggressive="0" prem="0" selftarget="1" lvl="45" mana="1500" exhaustion="1" event="script" value="personagem/naruto/kurama speed.lua">
 	<vocation id="1"/> 
 	</instant>
+
 	<!-- Hashirama -->
 	<instant name="For Attack" words="Doton Doryuso" lvl="10" mana="20" prem="0" needtarget="1" range="5" exhaustion="2000" blockwalls="1" needlearn="0" script="personagem/hashirama/1.lua">
 	<vocation id="11"/> 
@@ -577,6 +577,7 @@
 	<instant name="For Buff" words="Mokuton Chacura" aggressive="0" prem="0" selftarget="1" lvl="65" mana="1500" exhaustion="1" event="script" value="personagem/hashirama/mokuton chacura.lua">
 	<vocation id="11"/> 
 	</instant>
+
 	<!-- Tobirama Jutsu -->
 	<instant name="For Support" words="Senju Kage Bunshin" lvl="90" mana="1000" prem="0" blockwalls="1" exhaustion="1000" needlearn="0" event="script" value="nidaimebunshin.lua">
 	<vocation id="12"/> 
@@ -615,6 +616,7 @@
 	<instant name="For Buff" words="Suiton Daikodan" aggressive="0" prem="0" selftarget="1" lvl="65" mana="1500" exhaustion="1" event="script" value="personagem/nidaime/suiton daikodan.lua">
 	<vocation id="12"/> 
 	</instant>
+
 	<!--- Sarutobi Jutsus -->
 	<instant name="Kuchyose Enma" words="King Enma" lvl="90" mana="1000" prem="0" blockwalls="1" exhaustion="100" needlearn="0" event="script" value="kuchyose/enma.lua">
 	<vocation id="13"/> 
@@ -649,6 +651,7 @@
 	<instant name="For Buff" words="Gogyo Kaiin" aggressive="0" prem="0" selftarget="1" lvl="65" mana="1500" exhaustion="1" event="script" value="personagem/sarutobi/gogyo kaiin.lua">
 	<vocation id="13"/> 
 	</instant>
+
 	<!--- Minato Jutsus -->
 	<!-- <instant name="For Attack" words="Rasengan" lvl="10" mana="20" prem="0" needtarget="1" range="1" exhaustion="2000" blockwalls="1" needlearn="0" script="personagem/minato/1rasengan1.lua"> -->
 	<!-- <vocation id="14"/>  -->
@@ -656,7 +659,6 @@
 	<!-- <instant name="For Attack" words="Rasenrengan" lvl="20" mana="40" prem="0" needtarget="1" range="1" exhaustion="2000" blockwalls="1" needlearn="0" script="personagem/minato/2rasenrengan2.lua"> -->
 	<!-- <vocation id="14"/> 
 	 -->
-	<!-- </instant> -->
 	<instant name="For Attack" words="Rasen Shenko Cho" lvl="30" mana="60" prem="0" needtarget="1" range="4" blockwalls="1" exhaustion="2000" needlearn="0" event="script" value="personagem/minato/3rasen shenko cho3.lua">
 	<vocation id="14"/> 
 	</instant>
@@ -693,6 +695,7 @@
 	<instant name="For Speed" words="Kiroi Senko" lvl="35" mana="0" prem="0" aggressive="1" exhaustion="1000" needlearn="0" blockwalls="1" enabled="1" event="script" value="suporte/minatohaste.lua">
 	<vocation id="14"/> 
 	</instant>
+
 	<!--- Tsunade Jutsus -->
 	<instant name="For Attack" words="Fubuki Attack" lvl="10" mana="20" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/tsunade/1.lua">
 	<vocation id="15"/> 
@@ -721,6 +724,7 @@
 	<instant name="For Buff" words="Ninpo Sozo" aggressive="0" prem="0" selftarget="1" lvl="65" mana="1500" exhaustion="1" event="script" value="personagem/tsunade/susano.lua">
 	<vocation id="15"/> 
 	</instant>
+
 	<!--- Kakashi Jutsus -->	
 	<instant name="For Attack" words="Raikiri" lvl="10" mana="20" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/kakashi/1raikiri.lua">
 	<vocation id="16"/> 
@@ -758,6 +762,7 @@
 	<instant name="For Buff" words="Hatake Susanoo" aggressive="0" prem="0" selftarget="1" lvl="65" mana="1500" exhaustion="1" event="script" value="personagem/kakashi/susano.lua">
 	<vocation id="16"/> 
 	</instant>
+
 	<!-- Madara Jutsu -->
 	<instant name="For Attack" words="Katon Hosenka" lvl="10" mana="40" prem="0" needtarget="1" range="4" blockwalls="1" exhaustion="2000" needlearn="0" event="script" value="personagem/madara/1.lua">
 	<vocation id="17"/> 
@@ -889,49 +894,1007 @@
 	<instant name="For Support" words="Tsukidasu" lvl="90"  mana="1000" prem="0" range="6" needtarget="1" blockwalls="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/tp.lua">
 	<vocation id="20"/> 
 	</instant>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<!-- LANÇAMENTOS -->
+
+	<!-- Nagato Jutsus -->
+	<instant name="For Attack" words="Katana no Tsukidasu" lvl="10" mana="20" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/1katana.lua">		
+	<vocation id="24"/> 
+	</instant>
+	<instant name="For Attack" words="Raiton Fang" lvl="20" mana="40" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/2raitonfang.lua">		
+	<vocation id="24"/> 
+	</instant>
+	<instant name="For Attack" words="Riryato no Raiton" lvl="30" mana="60" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/3pontada.lua">		
+	<vocation id="24"/> 
+	</instant>
+	<instant name="For Attack" words="Raiton no Bomu" lvl="40" mana="80" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/4girokatana.lua">		
+	<vocation id="24"/> 
+	</instant>
+	<instant name="For Attack" words="Raitoningu Baruto" lvl="50" mana="150" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/5throwkatana.lua">		
+	<vocation id="24"/> 
+	</instant>
+	<instant name="For Attack" words="Akurobatto" lvl="55" mana="225" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/6killer.lua">
+	<vocation id="24"/> 
+	</instant>
+	<instant name="For Attack" words="Rarabaidauntaun" lvl="60" mana="300" aggressive="1"  exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/7dancekatana.lua">		
+	<vocation id="24"/> 
+	</instant>
+	<instant name="For Attack" words="Raigazutsupuratonbomu" lvl="65" mana="350" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/8doublelariat.lua">		
+	<vocation id="24"/> 
+	</instant>
+	<instant name="For Attack" words="Okutopasu Hagu" lvl="70" mana="400" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/9cauda.lua">		
+	<vocation id="24"/> 
+	</instant>
+	<instant name="For Buff" words="Raiga Bomu" aggressive="0" prem="0" selftarget="1" lvl="65" mana="1500" exhaustion="1" event="script" value="personagem/killer bee/buff.lua">
+	<vocation id="24"/> 
+	</instant>
+	<instant name="For Support" words="Tsukidasu" lvl="90"  mana="1000" prem="0" range="6" needtarget="1" blockwalls="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/tp.lua">
+	<vocation id="24"/> 
+	</instant>
+
+	<!-- Itachi Jutsus -->
+	<instant name="For Attack" words="Katana no Tsukidasu" lvl="10" mana="20" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/1katana.lua">		
+	<vocation id="25"/> 
+	</instant>
+	<instant name="For Attack" words="Raiton Fang" lvl="20" mana="40" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/2raitonfang.lua">		
+	<vocation id="25"/> 
+	</instant>
+	<instant name="For Attack" words="Riryato no Raiton" lvl="30" mana="60" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/3pontada.lua">		
+	<vocation id="25"/> 
+	</instant>
+	<instant name="For Attack" words="Raiton no Bomu" lvl="40" mana="80" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/4girokatana.lua">		
+	<vocation id="25"/> 
+	</instant>
+	<instant name="For Attack" words="Raitoningu Baruto" lvl="50" mana="150" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/5throwkatana.lua">		
+	<vocation id="25"/> 
+	</instant>
+	<instant name="For Attack" words="Akurobatto" lvl="55" mana="225" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/6killer.lua">
+	<vocation id="25"/> 
+	</instant>
+	<instant name="For Attack" words="Rarabaidauntaun" lvl="60" mana="300" aggressive="1"  exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/7dancekatana.lua">		
+	<vocation id="25"/> 
+	</instant>
+	<instant name="For Attack" words="Raigazutsupuratonbomu" lvl="65" mana="350" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/8doublelariat.lua">		
+	<vocation id="25"/> 
+	</instant>
+	<instant name="For Attack" words="Okutopasu Hagu" lvl="70" mana="400" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/9cauda.lua">		
+	<vocation id="25"/> 
+	</instant>
+	<instant name="For Buff" words="Raiga Bomu" aggressive="0" prem="0" selftarget="1" lvl="65" mana="1500" exhaustion="1" event="script" value="personagem/killer bee/buff.lua">
+	<vocation id="25"/> 
+	</instant>
+	<instant name="For Support" words="Tsukidasu" lvl="90"  mana="1000" prem="0" range="6" needtarget="1" blockwalls="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/tp.lua">
+	<vocation id="25"/> 
+	</instant>
+
+	<!-- Shisui Jutsus -->
+	<instant name="For Attack" words="Katana no Tsukidasu" lvl="10" mana="20" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/1katana.lua">		
+	<vocation id="26"/> 
+	</instant>
+	<instant name="For Attack" words="Raiton Fang" lvl="20" mana="40" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/2raitonfang.lua">		
+	<vocation id="26"/> 
+	</instant>
+	<instant name="For Attack" words="Riryato no Raiton" lvl="30" mana="60" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/3pontada.lua">		
+	<vocation id="26"/> 
+	</instant>
+	<instant name="For Attack" words="Raiton no Bomu" lvl="40" mana="80" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/4girokatana.lua">		
+	<vocation id="26"/> 
+	</instant>
+	<instant name="For Attack" words="Raitoningu Baruto" lvl="50" mana="150" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/5throwkatana.lua">		
+	<vocation id="26"/> 
+	</instant>
+	<instant name="For Attack" words="Akurobatto" lvl="55" mana="225" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/6killer.lua">
+	<vocation id="26"/> 
+	</instant>
+	<instant name="For Attack" words="Rarabaidauntaun" lvl="60" mana="300" aggressive="1"  exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/7dancekatana.lua">		
+	<vocation id="26"/> 
+	</instant>
+	<instant name="For Attack" words="Raigazutsupuratonbomu" lvl="65" mana="350" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/8doublelariat.lua">		
+	<vocation id="26"/> 
+	</instant>
+	<instant name="For Attack" words="Okutopasu Hagu" lvl="70" mana="400" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/9cauda.lua">		
+	<vocation id="26"/> 
+	</instant>
+	<instant name="For Buff" words="Raiga Bomu" aggressive="0" prem="0" selftarget="1" lvl="65" mana="1500" exhaustion="1" event="script" value="personagem/killer bee/buff.lua">
+	<vocation id="26"/> 
+	</instant>
+	<instant name="For Support" words="Tsukidasu" lvl="90"  mana="1000" prem="0" range="6" needtarget="1" blockwalls="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/tp.lua">
+	<vocation id="26"/> 
+	</instant>
+
+	<!-- Yamato Jutsus -->
+	<instant name="For Attack" words="Katana no Tsukidasu" lvl="10" mana="20" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/1katana.lua">		
+	<vocation id="27"/> 
+	</instant>
+	<instant name="For Attack" words="Raiton Fang" lvl="20" mana="40" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/2raitonfang.lua">		
+	<vocation id="27"/> 
+	</instant>
+	<instant name="For Attack" words="Riryato no Raiton" lvl="30" mana="60" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/3pontada.lua">		
+	<vocation id="27"/> 
+	</instant>
+	<instant name="For Attack" words="Raiton no Bomu" lvl="40" mana="80" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/4girokatana.lua">		
+	<vocation id="27"/> 
+	</instant>
+	<instant name="For Attack" words="Raitoningu Baruto" lvl="50" mana="150" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/5throwkatana.lua">		
+	<vocation id="27"/> 
+	</instant>
+	<instant name="For Attack" words="Akurobatto" lvl="55" mana="225" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/6killer.lua">
+	<vocation id="27"/> 
+	</instant>
+	<instant name="For Attack" words="Rarabaidauntaun" lvl="60" mana="300" aggressive="1"  exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/7dancekatana.lua">		
+	<vocation id="27"/> 
+	</instant>
+	<instant name="For Attack" words="Raigazutsupuratonbomu" lvl="65" mana="350" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/8doublelariat.lua">		
+	<vocation id="27"/> 
+	</instant>
+	<instant name="For Attack" words="Okutopasu Hagu" lvl="70" mana="400" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/9cauda.lua">		
+	<vocation id="27"/> 
+	</instant>
+	<instant name="For Buff" words="Raiga Bomu" aggressive="0" prem="0" selftarget="1" lvl="65" mana="1500" exhaustion="1" event="script" value="personagem/killer bee/buff.lua">
+	<vocation id="27"/> 
+	</instant>
+	<instant name="For Support" words="Tsukidasu" lvl="90"  mana="1000" prem="0" range="6" needtarget="1" blockwalls="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/tp.lua">
+	<vocation id="27"/> 
+	</instant>
+
+	<!-- Suigetsu Jutsus -->
+	<instant name="For Attack" words="Katana no Tsukidasu" lvl="10" mana="20" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/1katana.lua">		
+	<vocation id="28"/> 
+	</instant>
+	<instant name="For Attack" words="Raiton Fang" lvl="20" mana="40" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/2raitonfang.lua">		
+	<vocation id="28"/> 
+	</instant>
+	<instant name="For Attack" words="Riryato no Raiton" lvl="30" mana="60" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/3pontada.lua">		
+	<vocation id="28"/> 
+	</instant>
+	<instant name="For Attack" words="Raiton no Bomu" lvl="40" mana="80" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/4girokatana.lua">		
+	<vocation id="28"/> 
+	</instant>
+	<instant name="For Attack" words="Raitoningu Baruto" lvl="50" mana="150" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/5throwkatana.lua">		
+	<vocation id="28"/> 
+	</instant>
+	<instant name="For Attack" words="Akurobatto" lvl="55" mana="225" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/6killer.lua">
+	<vocation id="28"/> 
+	</instant>
+	<instant name="For Attack" words="Rarabaidauntaun" lvl="60" mana="300" aggressive="1"  exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/7dancekatana.lua">		
+	<vocation id="28"/> 
+	</instant>
+	<instant name="For Attack" words="Raigazutsupuratonbomu" lvl="65" mana="350" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/8doublelariat.lua">		
+	<vocation id="28"/> 
+	</instant>
+	<instant name="For Attack" words="Okutopasu Hagu" lvl="70" mana="400" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/9cauda.lua">		
+	<vocation id="28"/> 
+	</instant>
+	<instant name="For Buff" words="Raiga Bomu" aggressive="0" prem="0" selftarget="1" lvl="65" mana="1500" exhaustion="1" event="script" value="personagem/killer bee/buff.lua">
+	<vocation id="28"/> 
+	</instant>
+	<instant name="For Support" words="Tsukidasu" lvl="90"  mana="1000" prem="0" range="6" needtarget="1" blockwalls="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/tp.lua">
+	<vocation id="28"/> 
+	</instant>
+
+	<!-- Deidara Jutsus -->
+	<instant name="For Attack" words="Katana no Tsukidasu" lvl="10" mana="20" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/1katana.lua">		
+	<vocation id="29"/> 
+	</instant>
+	<instant name="For Attack" words="Raiton Fang" lvl="20" mana="40" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/2raitonfang.lua">		
+	<vocation id="29"/> 
+	</instant>
+	<instant name="For Attack" words="Riryato no Raiton" lvl="30" mana="60" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/3pontada.lua">		
+	<vocation id="29"/> 
+	</instant>
+	<instant name="For Attack" words="Raiton no Bomu" lvl="40" mana="80" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/4girokatana.lua">		
+	<vocation id="29"/> 
+	</instant>
+	<instant name="For Attack" words="Raitoningu Baruto" lvl="50" mana="150" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/5throwkatana.lua">		
+	<vocation id="29"/> 
+	</instant>
+	<instant name="For Attack" words="Akurobatto" lvl="55" mana="225" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/6killer.lua">
+	<vocation id="29"/> 
+	</instant>
+	<instant name="For Attack" words="Rarabaidauntaun" lvl="60" mana="300" aggressive="1"  exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/7dancekatana.lua">		
+	<vocation id="29"/> 
+	</instant>
+	<instant name="For Attack" words="Raigazutsupuratonbomu" lvl="65" mana="350" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/8doublelariat.lua">		
+	<vocation id="29"/> 
+	</instant>
+	<instant name="For Attack" words="Okutopasu Hagu" lvl="70" mana="400" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/9cauda.lua">		
+	<vocation id="29"/> 
+	</instant>
+	<instant name="For Buff" words="Raiga Bomu" aggressive="0" prem="0" selftarget="1" lvl="65" mana="1500" exhaustion="1" event="script" value="personagem/killer bee/buff.lua">
+	<vocation id="29"/> 
+	</instant>
+	<instant name="For Support" words="Tsukidasu" lvl="90"  mana="1000" prem="0" range="6" needtarget="1" blockwalls="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/tp.lua">
+	<vocation id="29"/> 
+	</instant>
+
+	<!-- Orochimaru Jutsus -->
+	<instant name="For Attack" words="Katana no Tsukidasu" lvl="10" mana="20" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/1katana.lua">		
+	<vocation id="30"/> 
+	</instant>
+	<instant name="For Attack" words="Raiton Fang" lvl="20" mana="40" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/2raitonfang.lua">		
+	<vocation id="30"/> 
+	</instant>
+	<instant name="For Attack" words="Riryato no Raiton" lvl="30" mana="60" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/3pontada.lua">		
+	<vocation id="30"/> 
+	</instant>
+	<instant name="For Attack" words="Raiton no Bomu" lvl="40" mana="80" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/4girokatana.lua">		
+	<vocation id="30"/> 
+	</instant>
+	<instant name="For Attack" words="Raitoningu Baruto" lvl="50" mana="150" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/5throwkatana.lua">		
+	<vocation id="30"/> 
+	</instant>
+	<instant name="For Attack" words="Akurobatto" lvl="55" mana="225" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/6killer.lua">
+	<vocation id="30"/> 
+	</instant>
+	<instant name="For Attack" words="Rarabaidauntaun" lvl="60" mana="300" aggressive="1"  exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/7dancekatana.lua">		
+	<vocation id="30"/> 
+	</instant>
+	<instant name="For Attack" words="Raigazutsupuratonbomu" lvl="65" mana="350" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/8doublelariat.lua">		
+	<vocation id="30"/> 
+	</instant>
+	<instant name="For Attack" words="Okutopasu Hagu" lvl="70" mana="400" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/9cauda.lua">		
+	<vocation id="30"/> 
+	</instant>
+	<instant name="For Buff" words="Raiga Bomu" aggressive="0" prem="0" selftarget="1" lvl="65" mana="1500" exhaustion="1" event="script" value="personagem/killer bee/buff.lua">
+	<vocation id="30"/> 
+	</instant>
+	<instant name="For Support" words="Tsukidasu" lvl="90"  mana="1000" prem="0" range="6" needtarget="1" blockwalls="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/tp.lua">
+	<vocation id="30"/> 
+	</instant>
+
+	<!-- Onoki Jutsus -->
+	<instant name="For Attack" words="Katana no Tsukidasu" lvl="10" mana="20" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/1katana.lua">		
+	<vocation id="31"/> 
+	</instant>
+	<instant name="For Attack" words="Raiton Fang" lvl="20" mana="40" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/2raitonfang.lua">		
+	<vocation id="31"/> 
+	</instant>
+	<instant name="For Attack" words="Riryato no Raiton" lvl="30" mana="60" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/3pontada.lua">		
+	<vocation id="31"/> 
+	</instant>
+	<instant name="For Attack" words="Raiton no Bomu" lvl="40" mana="80" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/4girokatana.lua">		
+	<vocation id="31"/> 
+	</instant>
+	<instant name="For Attack" words="Raitoningu Baruto" lvl="50" mana="150" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/5throwkatana.lua">		
+	<vocation id="31"/> 
+	</instant>
+	<instant name="For Attack" words="Akurobatto" lvl="55" mana="225" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/6killer.lua">
+	<vocation id="31"/> 
+	</instant>
+	<instant name="For Attack" words="Rarabaidauntaun" lvl="60" mana="300" aggressive="1"  exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/7dancekatana.lua">		
+	<vocation id="31"/> 
+	</instant>
+	<instant name="For Attack" words="Raigazutsupuratonbomu" lvl="65" mana="350" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/8doublelariat.lua">		
+	<vocation id="31"/> 
+	</instant>
+	<instant name="For Attack" words="Okutopasu Hagu" lvl="70" mana="400" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/9cauda.lua">		
+	<vocation id="31"/> 
+	</instant>
+	<instant name="For Buff" words="Raiga Bomu" aggressive="0" prem="0" selftarget="1" lvl="65" mana="1500" exhaustion="1" event="script" value="personagem/killer bee/buff.lua">
+	<vocation id="31"/> 
+	</instant>
+	<instant name="For Support" words="Tsukidasu" lvl="90"  mana="1000" prem="0" range="6" needtarget="1" blockwalls="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/tp.lua">
+	<vocation id="31"/> 
+	</instant>
+
+	<!-- Jiraiya Jutsus -->
+	<instant name="For Attack" words="Katana no Tsukidasu" lvl="10" mana="20" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/1katana.lua">		
+	<vocation id="32"/> 
+	</instant>
+	<instant name="For Attack" words="Raiton Fang" lvl="20" mana="40" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/2raitonfang.lua">		
+	<vocation id="32"/> 
+	</instant>
+	<instant name="For Attack" words="Riryato no Raiton" lvl="30" mana="60" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/3pontada.lua">		
+	<vocation id="32"/> 
+	</instant>
+	<instant name="For Attack" words="Raiton no Bomu" lvl="40" mana="80" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/4girokatana.lua">		
+	<vocation id="32"/> 
+	</instant>
+	<instant name="For Attack" words="Raitoningu Baruto" lvl="50" mana="150" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/5throwkatana.lua">		
+	<vocation id="32"/> 
+	</instant>
+	<instant name="For Attack" words="Akurobatto" lvl="55" mana="225" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/6killer.lua">
+	<vocation id="32"/> 
+	</instant>
+	<instant name="For Attack" words="Rarabaidauntaun" lvl="60" mana="300" aggressive="1"  exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/7dancekatana.lua">		
+	<vocation id="32"/> 
+	</instant>
+	<instant name="For Attack" words="Raigazutsupuratonbomu" lvl="65" mana="350" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/8doublelariat.lua">		
+	<vocation id="32"/> 
+	</instant>
+	<instant name="For Attack" words="Okutopasu Hagu" lvl="70" mana="400" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/9cauda.lua">		
+	<vocation id="32"/> 
+	</instant>
+	<instant name="For Buff" words="Raiga Bomu" aggressive="0" prem="0" selftarget="1" lvl="65" mana="1500" exhaustion="1" event="script" value="personagem/killer bee/buff.lua">
+	<vocation id="32"/> 
+	</instant>
+	<instant name="For Support" words="Tsukidasu" lvl="90"  mana="1000" prem="0" range="6" needtarget="1" blockwalls="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/tp.lua">
+	<vocation id="32"/> 
+	</instant>
+
+	<!-- Shino Jutsus -->
+	<instant name="For Attack" words="Katana no Tsukidasu" lvl="10" mana="20" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/1katana.lua">		
+	<vocation id="33"/> 
+	</instant>
+	<instant name="For Attack" words="Raiton Fang" lvl="20" mana="40" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/2raitonfang.lua">		
+	<vocation id="33"/> 
+	</instant>
+	<instant name="For Attack" words="Riryato no Raiton" lvl="30" mana="60" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/3pontada.lua">		
+	<vocation id="33"/> 
+	</instant>
+	<instant name="For Attack" words="Raiton no Bomu" lvl="40" mana="80" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/4girokatana.lua">		
+	<vocation id="33"/> 
+	</instant>
+	<instant name="For Attack" words="Raitoningu Baruto" lvl="50" mana="150" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/5throwkatana.lua">		
+	<vocation id="33"/> 
+	</instant>
+	<instant name="For Attack" words="Akurobatto" lvl="55" mana="225" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/6killer.lua">
+	<vocation id="33"/> 
+	</instant>
+	<instant name="For Attack" words="Rarabaidauntaun" lvl="60" mana="300" aggressive="1"  exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/7dancekatana.lua">		
+	<vocation id="33"/> 
+	</instant>
+	<instant name="For Attack" words="Raigazutsupuratonbomu" lvl="65" mana="350" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/8doublelariat.lua">		
+	<vocation id="33"/> 
+	</instant>
+	<instant name="For Attack" words="Okutopasu Hagu" lvl="70" mana="400" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/9cauda.lua">		
+	<vocation id="33"/> 
+	</instant>
+	<instant name="For Buff" words="Raiga Bomu" aggressive="0" prem="0" selftarget="1" lvl="65" mana="1500" exhaustion="1" event="script" value="personagem/killer bee/buff.lua">
+	<vocation id="33"/> 
+	</instant>
+	<instant name="For Support" words="Tsukidasu" lvl="90"  mana="1000" prem="0" range="6" needtarget="1" blockwalls="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/tp.lua">
+	<vocation id="33"/> 
+	</instant>
+
+	<!-- Sai Jutsus -->
+	<instant name="For Attack" words="Katana no Tsukidasu" lvl="10" mana="20" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/1katana.lua">		
+	<vocation id="34"/> 
+	</instant>
+	<instant name="For Attack" words="Raiton Fang" lvl="20" mana="40" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/2raitonfang.lua">		
+	<vocation id="34"/> 
+	</instant>
+	<instant name="For Attack" words="Riryato no Raiton" lvl="30" mana="60" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/3pontada.lua">		
+	<vocation id="34"/> 
+	</instant>
+	<instant name="For Attack" words="Raiton no Bomu" lvl="40" mana="80" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/4girokatana.lua">		
+	<vocation id="34"/> 
+	</instant>
+	<instant name="For Attack" words="Raitoningu Baruto" lvl="50" mana="150" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/5throwkatana.lua">		
+	<vocation id="34"/> 
+	</instant>
+	<instant name="For Attack" words="Akurobatto" lvl="55" mana="225" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/6killer.lua">
+	<vocation id="34"/> 
+	</instant>
+	<instant name="For Attack" words="Rarabaidauntaun" lvl="60" mana="300" aggressive="1"  exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/7dancekatana.lua">		
+	<vocation id="34"/> 
+	</instant>
+	<instant name="For Attack" words="Raigazutsupuratonbomu" lvl="65" mana="350" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/8doublelariat.lua">		
+	<vocation id="34"/> 
+	</instant>
+	<instant name="For Attack" words="Okutopasu Hagu" lvl="70" mana="400" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/9cauda.lua">		
+	<vocation id="34"/> 
+	</instant>
+	<instant name="For Buff" words="Raiga Bomu" aggressive="0" prem="0" selftarget="1" lvl="65" mana="1500" exhaustion="1" event="script" value="personagem/killer bee/buff.lua">
+	<vocation id="34"/> 
+	</instant>
+	<instant name="For Support" words="Tsukidasu" lvl="90"  mana="1000" prem="0" range="6" needtarget="1" blockwalls="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/tp.lua">
+	<vocation id="34"/> 
+	</instant>
+
+	<!-- Kankuro Jutsus -->
+	<instant name="For Attack" words="Katana no Tsukidasu" lvl="10" mana="20" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/1katana.lua">		
+	<vocation id="35"/> 
+	</instant>
+	<instant name="For Attack" words="Raiton Fang" lvl="20" mana="40" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/2raitonfang.lua">		
+	<vocation id="35"/> 
+	</instant>
+	<instant name="For Attack" words="Riryato no Raiton" lvl="30" mana="60" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/3pontada.lua">		
+	<vocation id="35"/> 
+	</instant>
+	<instant name="For Attack" words="Raiton no Bomu" lvl="40" mana="80" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/4girokatana.lua">		
+	<vocation id="35"/> 
+	</instant>
+	<instant name="For Attack" words="Raitoningu Baruto" lvl="50" mana="150" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/5throwkatana.lua">		
+	<vocation id="35"/> 
+	</instant>
+	<instant name="For Attack" words="Akurobatto" lvl="55" mana="225" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/6killer.lua">
+	<vocation id="35"/> 
+	</instant>
+	<instant name="For Attack" words="Rarabaidauntaun" lvl="60" mana="300" aggressive="1"  exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/7dancekatana.lua">		
+	<vocation id="35"/> 
+	</instant>
+	<instant name="For Attack" words="Raigazutsupuratonbomu" lvl="65" mana="350" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/8doublelariat.lua">		
+	<vocation id="35"/> 
+	</instant>
+	<instant name="For Attack" words="Okutopasu Hagu" lvl="70" mana="400" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/9cauda.lua">		
+	<vocation id="35"/> 
+	</instant>
+	<instant name="For Buff" words="Raiga Bomu" aggressive="0" prem="0" selftarget="1" lvl="65" mana="1500" exhaustion="1" event="script" value="personagem/killer bee/buff.lua">
+	<vocation id="35"/> 
+	</instant>
+	<instant name="For Support" words="Tsukidasu" lvl="90"  mana="1000" prem="0" range="6" needtarget="1" blockwalls="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/tp.lua">
+	<vocation id="35"/> 
+	</instant>
+
+	<!-- Guy Jutsus -->
+	<instant name="For Attack" words="Katana no Tsukidasu" lvl="10" mana="20" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/1katana.lua">		
+	<vocation id="36"/> 
+	</instant>
+	<instant name="For Attack" words="Raiton Fang" lvl="20" mana="40" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/2raitonfang.lua">		
+	<vocation id="36"/> 
+	</instant>
+	<instant name="For Attack" words="Riryato no Raiton" lvl="30" mana="60" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/3pontada.lua">		
+	<vocation id="36"/> 
+	</instant>
+	<instant name="For Attack" words="Raiton no Bomu" lvl="40" mana="80" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/4girokatana.lua">		
+	<vocation id="36"/> 
+	</instant>
+	<instant name="For Attack" words="Raitoningu Baruto" lvl="50" mana="150" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/5throwkatana.lua">		
+	<vocation id="36"/> 
+	</instant>
+	<instant name="For Attack" words="Akurobatto" lvl="55" mana="225" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/6killer.lua">
+	<vocation id="36"/> 
+	</instant>
+	<instant name="For Attack" words="Rarabaidauntaun" lvl="60" mana="300" aggressive="1"  exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/7dancekatana.lua">		
+	<vocation id="36"/> 
+	</instant>
+	<instant name="For Attack" words="Raigazutsupuratonbomu" lvl="65" mana="350" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/8doublelariat.lua">		
+	<vocation id="36"/> 
+	</instant>
+	<instant name="For Attack" words="Okutopasu Hagu" lvl="70" mana="400" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/9cauda.lua">		
+	<vocation id="36"/> 
+	</instant>
+	<instant name="For Buff" words="Raiga Bomu" aggressive="0" prem="0" selftarget="1" lvl="65" mana="1500" exhaustion="1" event="script" value="personagem/killer bee/buff.lua">
+	<vocation id="36"/> 
+	</instant>
+	<instant name="For Support" words="Tsukidasu" lvl="90"  mana="1000" prem="0" range="6" needtarget="1" blockwalls="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/tp.lua">
+	<vocation id="36"/> 
+	</instant>
+
+	<!-- Hinata Jutsus -->
+	<instant name="For Attack" words="Katana no Tsukidasu" lvl="10" mana="20" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/1katana.lua">		
+	<vocation id="37"/> 
+	</instant>
+	<instant name="For Attack" words="Raiton Fang" lvl="20" mana="40" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/2raitonfang.lua">		
+	<vocation id="37"/> 
+	</instant>
+	<instant name="For Attack" words="Riryato no Raiton" lvl="30" mana="60" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/3pontada.lua">		
+	<vocation id="37"/> 
+	</instant>
+	<instant name="For Attack" words="Raiton no Bomu" lvl="40" mana="80" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/4girokatana.lua">		
+	<vocation id="37"/> 
+	</instant>
+	<instant name="For Attack" words="Raitoningu Baruto" lvl="50" mana="150" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/5throwkatana.lua">		
+	<vocation id="37"/> 
+	</instant>
+	<instant name="For Attack" words="Akurobatto" lvl="55" mana="225" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/6killer.lua">
+	<vocation id="37"/> 
+	</instant>
+	<instant name="For Attack" words="Rarabaidauntaun" lvl="60" mana="300" aggressive="1"  exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/7dancekatana.lua">		
+	<vocation id="37"/> 
+	</instant>
+	<instant name="For Attack" words="Raigazutsupuratonbomu" lvl="65" mana="350" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/8doublelariat.lua">		
+	<vocation id="37"/> 
+	</instant>
+	<instant name="For Attack" words="Okutopasu Hagu" lvl="70" mana="400" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/9cauda.lua">		
+	<vocation id="37"/> 
+	</instant>
+	<instant name="For Buff" words="Raiga Bomu" aggressive="0" prem="0" selftarget="1" lvl="65" mana="1500" exhaustion="1" event="script" value="personagem/killer bee/buff.lua">
+	<vocation id="37"/> 
+	</instant>
+	<instant name="For Support" words="Tsukidasu" lvl="90"  mana="1000" prem="0" range="6" needtarget="1" blockwalls="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/tp.lua">
+	<vocation id="37"/> 
+	</instant>
+
+	<!-- Ino Jutsus -->
+	<instant name="For Attack" words="Katana no Tsukidasu" lvl="10" mana="20" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/1katana.lua">		
+	<vocation id="38"/> 
+	</instant>
+	<instant name="For Attack" words="Raiton Fang" lvl="20" mana="40" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/2raitonfang.lua">		
+	<vocation id="38"/> 
+	</instant>
+	<instant name="For Attack" words="Riryato no Raiton" lvl="30" mana="60" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/3pontada.lua">		
+	<vocation id="38"/> 
+	</instant>
+	<instant name="For Attack" words="Raiton no Bomu" lvl="40" mana="80" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/4girokatana.lua">		
+	<vocation id="38"/> 
+	</instant>
+	<instant name="For Attack" words="Raitoningu Baruto" lvl="50" mana="150" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/5throwkatana.lua">		
+	<vocation id="38"/> 
+	</instant>
+	<instant name="For Attack" words="Akurobatto" lvl="55" mana="225" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/6killer.lua">
+	<vocation id="38"/> 
+	</instant>
+	<instant name="For Attack" words="Rarabaidauntaun" lvl="60" mana="300" aggressive="1"  exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/7dancekatana.lua">		
+	<vocation id="38"/> 
+	</instant>
+	<instant name="For Attack" words="Raigazutsupuratonbomu" lvl="65" mana="350" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/8doublelariat.lua">		
+	<vocation id="38"/> 
+	</instant>
+	<instant name="For Attack" words="Okutopasu Hagu" lvl="70" mana="400" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/9cauda.lua">		
+	<vocation id="38"/> 
+	</instant>
+	<instant name="For Buff" words="Raiga Bomu" aggressive="0" prem="0" selftarget="1" lvl="65" mana="1500" exhaustion="1" event="script" value="personagem/killer bee/buff.lua">
+	<vocation id="38"/> 
+	</instant>
+	<instant name="For Support" words="Tsukidasu" lvl="90"  mana="1000" prem="0" range="6" needtarget="1" blockwalls="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/tp.lua">
+	<vocation id="38"/> 
+	</instant>
+
+	<!-- Kabuto Jutsus -->
+	<instant name="For Attack" words="Katana no Tsukidasu" lvl="10" mana="20" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/1katana.lua">		
+	<vocation id="39"/> 
+	</instant>
+	<instant name="For Attack" words="Raiton Fang" lvl="20" mana="40" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/2raitonfang.lua">		
+	<vocation id="39"/> 
+	</instant>
+	<instant name="For Attack" words="Riryato no Raiton" lvl="30" mana="60" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/3pontada.lua">		
+	<vocation id="39"/> 
+	</instant>
+	<instant name="For Attack" words="Raiton no Bomu" lvl="40" mana="80" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/4girokatana.lua">		
+	<vocation id="39"/> 
+	</instant>
+	<instant name="For Attack" words="Raitoningu Baruto" lvl="50" mana="150" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/5throwkatana.lua">		
+	<vocation id="39"/> 
+	</instant>
+	<instant name="For Attack" words="Akurobatto" lvl="55" mana="225" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/6killer.lua">
+	<vocation id="39"/> 
+	</instant>
+	<instant name="For Attack" words="Rarabaidauntaun" lvl="60" mana="300" aggressive="1"  exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/7dancekatana.lua">		
+	<vocation id="39"/> 
+	</instant>
+	<instant name="For Attack" words="Raigazutsupuratonbomu" lvl="65" mana="350" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/8doublelariat.lua">		
+	<vocation id="39"/> 
+	</instant>
+	<instant name="For Attack" words="Okutopasu Hagu" lvl="70" mana="400" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/9cauda.lua">		
+	<vocation id="39"/> 
+	</instant>
+	<instant name="For Buff" words="Raiga Bomu" aggressive="0" prem="0" selftarget="1" lvl="65" mana="1500" exhaustion="1" event="script" value="personagem/killer bee/buff.lua">
+	<vocation id="39"/> 
+	</instant>
+	<instant name="For Support" words="Tsukidasu" lvl="90"  mana="1000" prem="0" range="6" needtarget="1" blockwalls="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/tp.lua">
+	<vocation id="39"/> 
+	</instant>
+
+	<!-- Kakuzo Jutsus -->
+	<instant name="For Attack" words="Katana no Tsukidasu" lvl="10" mana="20" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/1katana.lua">		
+	<vocation id="40"/> 
+	</instant>
+	<instant name="For Attack" words="Raiton Fang" lvl="20" mana="40" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/2raitonfang.lua">		
+	<vocation id="40"/> 
+	</instant>
+	<instant name="For Attack" words="Riryato no Raiton" lvl="30" mana="60" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/3pontada.lua">		
+	<vocation id="40"/> 
+	</instant>
+	<instant name="For Attack" words="Raiton no Bomu" lvl="40" mana="80" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/4girokatana.lua">		
+	<vocation id="40"/> 
+	</instant>
+	<instant name="For Attack" words="Raitoningu Baruto" lvl="50" mana="150" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/5throwkatana.lua">		
+	<vocation id="40"/> 
+	</instant>
+	<instant name="For Attack" words="Akurobatto" lvl="55" mana="225" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/6killer.lua">
+	<vocation id="40"/> 
+	</instant>
+	<instant name="For Attack" words="Rarabaidauntaun" lvl="60" mana="300" aggressive="1"  exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/7dancekatana.lua">		
+	<vocation id="40"/> 
+	</instant>
+	<instant name="For Attack" words="Raigazutsupuratonbomu" lvl="65" mana="350" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/8doublelariat.lua">		
+	<vocation id="40"/> 
+	</instant>
+	<instant name="For Attack" words="Okutopasu Hagu" lvl="70" mana="400" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/9cauda.lua">		
+	<vocation id="40"/> 
+	</instant>
+	<instant name="For Buff" words="Raiga Bomu" aggressive="0" prem="0" selftarget="1" lvl="65" mana="1500" exhaustion="1" event="script" value="personagem/killer bee/buff.lua">
+	<vocation id="40"/> 
+	</instant>
+	<instant name="For Support" words="Tsukidasu" lvl="90"  mana="1000" prem="0" range="6" needtarget="1" blockwalls="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/tp.lua">
+	<vocation id="40"/> 
+	</instant>
+
+	<!-- Raikage Jutsus -->
+	<instant name="For Attack" words="Katana no Tsukidasu" lvl="10" mana="20" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/1katana.lua">		
+	<vocation id="41"/> 
+	</instant>
+	<instant name="For Attack" words="Raiton Fang" lvl="20" mana="40" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/2raitonfang.lua">		
+	<vocation id="41"/> 
+	</instant>
+	<instant name="For Attack" words="Riryato no Raiton" lvl="30" mana="60" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/3pontada.lua">		
+	<vocation id="41"/> 
+	</instant>
+	<instant name="For Attack" words="Raiton no Bomu" lvl="40" mana="80" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/4girokatana.lua">		
+	<vocation id="41"/> 
+	</instant>
+	<instant name="For Attack" words="Raitoningu Baruto" lvl="50" mana="150" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/5throwkatana.lua">		
+	<vocation id="41"/> 
+	</instant>
+	<instant name="For Attack" words="Akurobatto" lvl="55" mana="225" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/6killer.lua">
+	<vocation id="41"/> 
+	</instant>
+	<instant name="For Attack" words="Rarabaidauntaun" lvl="60" mana="300" aggressive="1"  exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/7dancekatana.lua">		
+	<vocation id="41"/> 
+	</instant>
+	<instant name="For Attack" words="Raigazutsupuratonbomu" lvl="65" mana="350" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/8doublelariat.lua">		
+	<vocation id="41"/> 
+	</instant>
+	<instant name="For Attack" words="Okutopasu Hagu" lvl="70" mana="400" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/9cauda.lua">		
+	<vocation id="41"/> 
+	</instant>
+	<instant name="For Buff" words="Raiga Bomu" aggressive="0" prem="0" selftarget="1" lvl="65" mana="1500" exhaustion="1" event="script" value="personagem/killer bee/buff.lua">
+	<vocation id="41"/> 
+	</instant>
+	<instant name="For Support" words="Tsukidasu" lvl="90"  mana="1000" prem="0" range="6" needtarget="1" blockwalls="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/tp.lua">
+	<vocation id="41"/> 
+	</instant>
+
+	<!-- Sasori Jutsus -->
+	<instant name="For Attack" words="Katana no Tsukidasu" lvl="10" mana="20" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/1katana.lua">		
+	<vocation id="42"/> 
+	</instant>
+	<instant name="For Attack" words="Raiton Fang" lvl="20" mana="40" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/2raitonfang.lua">		
+	<vocation id="42"/> 
+	</instant>
+	<instant name="For Attack" words="Riryato no Raiton" lvl="30" mana="60" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/3pontada.lua">		
+	<vocation id="42"/> 
+	</instant>
+	<instant name="For Attack" words="Raiton no Bomu" lvl="40" mana="80" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/4girokatana.lua">		
+	<vocation id="42"/> 
+	</instant>
+	<instant name="For Attack" words="Raitoningu Baruto" lvl="50" mana="150" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/5throwkatana.lua">		
+	<vocation id="42"/> 
+	</instant>
+	<instant name="For Attack" words="Akurobatto" lvl="55" mana="225" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/6killer.lua">
+	<vocation id="42"/> 
+	</instant>
+	<instant name="For Attack" words="Rarabaidauntaun" lvl="60" mana="300" aggressive="1"  exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/7dancekatana.lua">		
+	<vocation id="42"/> 
+	</instant>
+	<instant name="For Attack" words="Raigazutsupuratonbomu" lvl="65" mana="350" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/8doublelariat.lua">		
+	<vocation id="42"/> 
+	</instant>
+	<instant name="For Attack" words="Okutopasu Hagu" lvl="70" mana="400" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/9cauda.lua">		
+	<vocation id="42"/> 
+	</instant>
+	<instant name="For Buff" words="Raiga Bomu" aggressive="0" prem="0" selftarget="1" lvl="65" mana="1500" exhaustion="1" event="script" value="personagem/killer bee/buff.lua">
+	<vocation id="42"/> 
+	</instant>
+	<instant name="For Support" words="Tsukidasu" lvl="90"  mana="1000" prem="0" range="6" needtarget="1" blockwalls="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/tp.lua">
+	<vocation id="42"/> 
+	</instant>
+
+	<!-- Zabuza Jutsus -->
+	<instant name="For Attack" words="Katana no Tsukidasu" lvl="10" mana="20" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/1katana.lua">		
+	<vocation id="43"/> 
+	</instant>
+	<instant name="For Attack" words="Raiton Fang" lvl="20" mana="40" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/2raitonfang.lua">		
+	<vocation id="43"/> 
+	</instant>
+	<instant name="For Attack" words="Riryato no Raiton" lvl="30" mana="60" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/3pontada.lua">		
+	<vocation id="43"/> 
+	</instant>
+	<instant name="For Attack" words="Raiton no Bomu" lvl="40" mana="80" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/4girokatana.lua">		
+	<vocation id="43"/> 
+	</instant>
+	<instant name="For Attack" words="Raitoningu Baruto" lvl="50" mana="150" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/5throwkatana.lua">		
+	<vocation id="43"/> 
+	</instant>
+	<instant name="For Attack" words="Akurobatto" lvl="55" mana="225" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/6killer.lua">
+	<vocation id="43"/> 
+	</instant>
+	<instant name="For Attack" words="Rarabaidauntaun" lvl="60" mana="300" aggressive="1"  exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/7dancekatana.lua">		
+	<vocation id="43"/> 
+	</instant>
+	<instant name="For Attack" words="Raigazutsupuratonbomu" lvl="65" mana="350" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/8doublelariat.lua">		
+	<vocation id="43"/> 
+	</instant>
+	<instant name="For Attack" words="Okutopasu Hagu" lvl="70" mana="400" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/9cauda.lua">		
+	<vocation id="43"/> 
+	</instant>
+	<instant name="For Buff" words="Raiga Bomu" aggressive="0" prem="0" selftarget="1" lvl="65" mana="1500" exhaustion="1" event="script" value="personagem/killer bee/buff.lua">
+	<vocation id="43"/> 
+	</instant>
+	<instant name="For Support" words="Tsukidasu" lvl="90"  mana="1000" prem="0" range="6" needtarget="1" blockwalls="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/tp.lua">
+	<vocation id="43"/> 
+	</instant>
+
+	<!-- Juugo Jutsus -->
+	<instant name="For Attack" words="Katana no Tsukidasu" lvl="10" mana="20" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/1katana.lua">		
+	<vocation id="44"/> 
+	</instant>
+	<instant name="For Attack" words="Raiton Fang" lvl="20" mana="40" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/2raitonfang.lua">		
+	<vocation id="44"/> 
+	</instant>
+	<instant name="For Attack" words="Riryato no Raiton" lvl="30" mana="60" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/3pontada.lua">		
+	<vocation id="44"/> 
+	</instant>
+	<instant name="For Attack" words="Raiton no Bomu" lvl="40" mana="80" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/4girokatana.lua">		
+	<vocation id="44"/> 
+	</instant>
+	<instant name="For Attack" words="Raitoningu Baruto" lvl="50" mana="150" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/5throwkatana.lua">		
+	<vocation id="44"/> 
+	</instant>
+	<instant name="For Attack" words="Akurobatto" lvl="55" mana="225" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/6killer.lua">
+	<vocation id="44"/> 
+	</instant>
+	<instant name="For Attack" words="Rarabaidauntaun" lvl="60" mana="300" aggressive="1"  exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/7dancekatana.lua">		
+	<vocation id="44"/> 
+	</instant>
+	<instant name="For Attack" words="Raigazutsupuratonbomu" lvl="65" mana="350" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/8doublelariat.lua">		
+	<vocation id="44"/> 
+	</instant>
+	<instant name="For Attack" words="Okutopasu Hagu" lvl="70" mana="400" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/9cauda.lua">		
+	<vocation id="44"/> 
+	</instant>
+	<instant name="For Buff" words="Raiga Bomu" aggressive="0" prem="0" selftarget="1" lvl="65" mana="1500" exhaustion="1" event="script" value="personagem/killer bee/buff.lua">
+	<vocation id="44"/> 
+	</instant>
+	<instant name="For Support" words="Tsukidasu" lvl="90"  mana="1000" prem="0" range="6" needtarget="1" blockwalls="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/tp.lua">
+	<vocation id="44"/> 
+	</instant>
+
+	<!-- Kimimaru Jutsus -->
+	<instant name="For Attack" words="Katana no Tsukidasu" lvl="10" mana="20" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/1katana.lua">		
+	<vocation id="45"/> 
+	</instant>
+	<instant name="For Attack" words="Raiton Fang" lvl="20" mana="40" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/2raitonfang.lua">		
+	<vocation id="45"/> 
+	</instant>
+	<instant name="For Attack" words="Riryato no Raiton" lvl="30" mana="60" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/3pontada.lua">		
+	<vocation id="45"/> 
+	</instant>
+	<instant name="For Attack" words="Raiton no Bomu" lvl="40" mana="80" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/4girokatana.lua">		
+	<vocation id="45"/> 
+	</instant>
+	<instant name="For Attack" words="Raitoningu Baruto" lvl="50" mana="150" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/5throwkatana.lua">		
+	<vocation id="45"/> 
+	</instant>
+	<instant name="For Attack" words="Akurobatto" lvl="55" mana="225" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/6killer.lua">
+	<vocation id="45"/> 
+	</instant>
+	<instant name="For Attack" words="Rarabaidauntaun" lvl="60" mana="300" aggressive="1"  exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/7dancekatana.lua">		
+	<vocation id="45"/> 
+	</instant>
+	<instant name="For Attack" words="Raigazutsupuratonbomu" lvl="65" mana="350" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/8doublelariat.lua">		
+	<vocation id="45"/> 
+	</instant>
+	<instant name="For Attack" words="Okutopasu Hagu" lvl="70" mana="400" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/9cauda.lua">		
+	<vocation id="45"/> 
+	</instant>
+	<instant name="For Buff" words="Raiga Bomu" aggressive="0" prem="0" selftarget="1" lvl="65" mana="1500" exhaustion="1" event="script" value="personagem/killer bee/buff.lua">
+	<vocation id="45"/> 
+	</instant>
+	<instant name="For Support" words="Tsukidasu" lvl="90"  mana="1000" prem="0" range="6" needtarget="1" blockwalls="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/tp.lua">
+	<vocation id="45"/> 
+	</instant>
+
+	<!-- Haku Jutsus -->
+	<instant name="For Attack" words="Katana no Tsukidasu" lvl="10" mana="20" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/1katana.lua">		
+	<vocation id="46"/> 
+	</instant>
+	<instant name="For Attack" words="Raiton Fang" lvl="20" mana="40" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/2raitonfang.lua">		
+	<vocation id="46"/> 
+	</instant>
+	<instant name="For Attack" words="Riryato no Raiton" lvl="30" mana="60" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/3pontada.lua">		
+	<vocation id="46"/> 
+	</instant>
+	<instant name="For Attack" words="Raiton no Bomu" lvl="40" mana="80" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/4girokatana.lua">		
+	<vocation id="46"/> 
+	</instant>
+	<instant name="For Attack" words="Raitoningu Baruto" lvl="50" mana="150" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/5throwkatana.lua">		
+	<vocation id="46"/> 
+	</instant>
+	<instant name="For Attack" words="Akurobatto" lvl="55" mana="225" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/6killer.lua">
+	<vocation id="46"/> 
+	</instant>
+	<instant name="For Attack" words="Rarabaidauntaun" lvl="60" mana="300" aggressive="1"  exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/7dancekatana.lua">		
+	<vocation id="46"/> 
+	</instant>
+	<instant name="For Attack" words="Raigazutsupuratonbomu" lvl="65" mana="350" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/8doublelariat.lua">		
+	<vocation id="46"/> 
+	</instant>
+	<instant name="For Attack" words="Okutopasu Hagu" lvl="70" mana="400" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/9cauda.lua">		
+	<vocation id="46"/> 
+	</instant>
+	<instant name="For Buff" words="Raiga Bomu" aggressive="0" prem="0" selftarget="1" lvl="65" mana="1500" exhaustion="1" event="script" value="personagem/killer bee/buff.lua">
+	<vocation id="46"/> 
+	</instant>
+	<instant name="For Support" words="Tsukidasu" lvl="90"  mana="1000" prem="0" range="6" needtarget="1" blockwalls="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/tp.lua">
+	<vocation id="46"/> 
+	</instant>
+
+	<!-- Menma Jutsus -->
+	<instant name="For Attack" words="Katana no Tsukidasu" lvl="10" mana="20" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/1katana.lua">		
+	<vocation id="47"/> 
+	</instant>
+	<instant name="For Attack" words="Raiton Fang" lvl="20" mana="40" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/2raitonfang.lua">		
+	<vocation id="47"/> 
+	</instant>
+	<instant name="For Attack" words="Riryato no Raiton" lvl="30" mana="60" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/3pontada.lua">		
+	<vocation id="47"/> 
+	</instant>
+	<instant name="For Attack" words="Raiton no Bomu" lvl="40" mana="80" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/4girokatana.lua">		
+	<vocation id="47"/> 
+	</instant>
+	<instant name="For Attack" words="Raitoningu Baruto" lvl="50" mana="150" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/5throwkatana.lua">		
+	<vocation id="47"/> 
+	</instant>
+	<instant name="For Attack" words="Akurobatto" lvl="55" mana="225" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/6killer.lua">
+	<vocation id="47"/> 
+	</instant>
+	<instant name="For Attack" words="Rarabaidauntaun" lvl="60" mana="300" aggressive="1"  exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/7dancekatana.lua">		
+	<vocation id="47"/> 
+	</instant>
+	<instant name="For Attack" words="Raigazutsupuratonbomu" lvl="65" mana="350" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/8doublelariat.lua">		
+	<vocation id="47"/> 
+	</instant>
+	<instant name="For Attack" words="Okutopasu Hagu" lvl="70" mana="400" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/9cauda.lua">		
+	<vocation id="47"/> 
+	</instant>
+	<instant name="For Buff" words="Raiga Bomu" aggressive="0" prem="0" selftarget="1" lvl="65" mana="1500" exhaustion="1" event="script" value="personagem/killer bee/buff.lua">
+	<vocation id="47"/> 
+	</instant>
+	<instant name="For Support" words="Tsukidasu" lvl="90"  mana="1000" prem="0" range="6" needtarget="1" blockwalls="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/tp.lua">
+	<vocation id="47"/> 
+	</instant>
+
+	<!-- Konohamaru Jutsus -->
+	<instant name="For Attack" words="Katana no Tsukidasu" lvl="10" mana="20" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/1katana.lua">		
+	<vocation id="48"/> 
+	</instant>
+	<instant name="For Attack" words="Raiton Fang" lvl="20" mana="40" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/2raitonfang.lua">		
+	<vocation id="48"/> 
+	</instant>
+	<instant name="For Attack" words="Riryato no Raiton" lvl="30" mana="60" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/3pontada.lua">		
+	<vocation id="48"/> 
+	</instant>
+	<instant name="For Attack" words="Raiton no Bomu" lvl="40" mana="80" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/4girokatana.lua">		
+	<vocation id="48"/> 
+	</instant>
+	<instant name="For Attack" words="Raitoningu Baruto" lvl="50" mana="150" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/5throwkatana.lua">		
+	<vocation id="48"/> 
+	</instant>
+	<instant name="For Attack" words="Akurobatto" lvl="55" mana="225" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/6killer.lua">
+	<vocation id="48"/> 
+	</instant>
+	<instant name="For Attack" words="Rarabaidauntaun" lvl="60" mana="300" aggressive="1"  exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/7dancekatana.lua">		
+	<vocation id="48"/> 
+	</instant>
+	<instant name="For Attack" words="Raigazutsupuratonbomu" lvl="65" mana="350" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/8doublelariat.lua">		
+	<vocation id="48"/> 
+	</instant>
+	<instant name="For Attack" words="Okutopasu Hagu" lvl="70" mana="400" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/9cauda.lua">		
+	<vocation id="48"/> 
+	</instant>
+	<instant name="For Buff" words="Raiga Bomu" aggressive="0" prem="0" selftarget="1" lvl="65" mana="1500" exhaustion="1" event="script" value="personagem/killer bee/buff.lua">
+	<vocation id="48"/> 
+	</instant>
+	<instant name="For Support" words="Tsukidasu" lvl="90"  mana="1000" prem="0" range="6" needtarget="1" blockwalls="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/tp.lua">
+	<vocation id="48"/> 
+	</instant>
+
+	<!-- Mei Jutsus -->
+	<instant name="For Attack" words="Katana no Tsukidasu" lvl="10" mana="20" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/1katana.lua">		
+	<vocation id="49"/> 
+	</instant>
+	<instant name="For Attack" words="Raiton Fang" lvl="20" mana="40" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/2raitonfang.lua">		
+	<vocation id="49"/> 
+	</instant>
+	<instant name="For Attack" words="Riryato no Raiton" lvl="30" mana="60" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/3pontada.lua">		
+	<vocation id="49"/> 
+	</instant>
+	<instant name="For Attack" words="Raiton no Bomu" lvl="40" mana="80" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/4girokatana.lua">		
+	<vocation id="49"/> 
+	</instant>
+	<instant name="For Attack" words="Raitoningu Baruto" lvl="50" mana="150" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/5throwkatana.lua">		
+	<vocation id="49"/> 
+	</instant>
+	<instant name="For Attack" words="Akurobatto" lvl="55" mana="225" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/6killer.lua">
+	<vocation id="49"/> 
+	</instant>
+	<instant name="For Attack" words="Rarabaidauntaun" lvl="60" mana="300" aggressive="1"  exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/7dancekatana.lua">		
+	<vocation id="49"/> 
+	</instant>
+	<instant name="For Attack" words="Raigazutsupuratonbomu" lvl="65" mana="350" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/8doublelariat.lua">		
+	<vocation id="49"/> 
+	</instant>
+	<instant name="For Attack" words="Okutopasu Hagu" lvl="70" mana="400" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/9cauda.lua">		
+	<vocation id="49"/> 
+	</instant>
+	<instant name="For Buff" words="Raiga Bomu" aggressive="0" prem="0" selftarget="1" lvl="65" mana="1500" exhaustion="1" event="script" value="personagem/killer bee/buff.lua">
+	<vocation id="49"/> 
+	</instant>
+	<instant name="For Support" words="Tsukidasu" lvl="90"  mana="1000" prem="0" range="6" needtarget="1" blockwalls="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/tp.lua">
+	<vocation id="49"/> 
+	</instant>
+
+	<!-- Zetsu Jutsus -->
+	<instant name="For Attack" words="Katana no Tsukidasu" lvl="10" mana="20" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/1katana.lua">		
+	<vocation id="50"/> 
+	</instant>
+	<instant name="For Attack" words="Raiton Fang" lvl="20" mana="40" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/2raitonfang.lua">		
+	<vocation id="50"/> 
+	</instant>
+	<instant name="For Attack" words="Riryato no Raiton" lvl="30" mana="60" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/3pontada.lua">		
+	<vocation id="50"/> 
+	</instant>
+	<instant name="For Attack" words="Raiton no Bomu" lvl="40" mana="80" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/4girokatana.lua">		
+	<vocation id="50"/> 
+	</instant>
+	<instant name="For Attack" words="Raitoningu Baruto" lvl="50" mana="150" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/killer bee/5throwkatana.lua">		
+	<vocation id="50"/> 
+	</instant>
+	<instant name="For Attack" words="Akurobatto" lvl="55" mana="225" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/6killer.lua">
+	<vocation id="50"/> 
+	</instant>
+	<instant name="For Attack" words="Rarabaidauntaun" lvl="60" mana="300" aggressive="1"  exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/7dancekatana.lua">		
+	<vocation id="50"/> 
+	</instant>
+	<instant name="For Attack" words="Raigazutsupuratonbomu" lvl="65" mana="350" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/8doublelariat.lua">		
+	<vocation id="50"/> 
+	</instant>
+	<instant name="For Attack" words="Okutopasu Hagu" lvl="70" mana="400" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/9cauda.lua">		
+	<vocation id="50"/> 
+	</instant>
+	<instant name="For Buff" words="Raiga Bomu" aggressive="0" prem="0" selftarget="1" lvl="65" mana="1500" exhaustion="1" event="script" value="personagem/killer bee/buff.lua">
+	<vocation id="50"/> 
+	</instant>
+	<instant name="For Support" words="Tsukidasu" lvl="90"  mana="1000" prem="0" range="6" needtarget="1" blockwalls="1" exhaustion="250" needlearn="0" event="script" value="personagem/killer bee/tp.lua">
+	<vocation id="50"/> 
+	</instant>
+
 	
 	
 	
 	
 	
 	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+
 	<!-- Monstros -->
 	<instant name="hashiramaum" words="hashiramaum" lvl="50" mana="150" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/hashirama/6.lua">	
 	<vocation id="0"/>
@@ -1449,3 +2412,4 @@
 	<vocation id="0"/> 
 	</instant>
 	</spells>
+

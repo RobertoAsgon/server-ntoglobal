@@ -69,36 +69,36 @@ local transform = {
 [34] = {[1] = 1894, [2] = 1895, [3] = 1896, [4] = 1815, [5] = 1897, [6] = 1816, [7] = 1817, [8] = 1818, effect = 243},
 -- Kankuro
 [35] = {[1] = 619, [2] = 620, [3] = 622, [4] = 623, [5] = 1779, [6] = 1775, [7] = 1776, [8] = 1780, effect = 596},
--- Guy \/ ----- PROCURAR LOOKTYPES ID NO OBJECT BUILDER
-[36] = [1] = 853, [2] = 854, [3] = 855, [4] = 856, [5] = 1602, [6] = 1603, [7] = 968, [8] = 969, effect = 608},
+-- Guy
+[36] = {[1] = 1485, [2] = 1486, [3] = 1487, [4] = 1488, [5] = 1489, [6] = 1491, [7] = 1492, [8] = 1493, effect = 617},
 -- Hinata
-[37] = [1] = 853, [2] = 854, [3] = 855, [4] = 856, [5] = 1602, [6] = 1603, [7] = 968, [8] = 969, effect = 608},
+[37] = {[1] = 2092, [2] = 2094, [3] = 2095, [4] = 2096, [5] = 2098, [6] = 2099, [7] = 2100, [8] = 2101, effect = 513},
 -- Ino
-[38] = [1] = 853, [2] = 854, [3] = 855, [4] = 856, [5] = 1602, [6] = 1603, [7] = 968, [8] = 969, effect = 608},
+[38] = {[1] = 1671, [2] = 1673, [3] = 1674, [4] = 1675, [5] = 1676, [6] = 1678, [7] = 968, [8] = 965, effect = 388},
 -- Kabuto
-[39] = [1] = 853, [2] = 854, [3] = 855, [4] = 856, [5] = 1602, [6] = 1603, [7] = 968, [8] = 969, effect = 608},
+[39] = {[1] = 2112, [2] = 2114, [3] = 2116, [4] = 2117, [5] = 2118, [6] = 2119, [7] = 2120, [8] = 2121, effect = 100},
 -- Kakuzo
-[40] = [1] = 853, [2] = 854, [3] = 855, [4] = 856, [5] = 1602, [6] = 1603, [7] = 968, [8] = 969, effect = 608},
+[40] = {[1] = 2102, [2] = 2104, [3] = 2105, [4] = 2106, [5] = 2108, [6] = 2109, [7] = 2110, [8] = 2111, effect = 488},
 -- Raikage
-[41] = [1] = 853, [2] = 854, [3] = 855, [4] = 856, [5] = 1602, [6] = 1603, [7] = 968, [8] = 969, effect = 608},
+[41] = {[1] = 1127, [2] = 1129, [3] = 1131, [4] = 1132, [5] = 1133, [6] = 1138, [7] = 1141, [8] = 1143, effect = 607},
 -- Sasori
-[42] = [1] = 853, [2] = 854, [3] = 855, [4] = 856, [5] = 1602, [6] = 1603, [7] = 968, [8] = 969, effect = 608},
+[42] = {[1] = 1307, [2] = 1310, [3] = 1311, [4] = 1313, [5] = 1315, [6] = 1316, [7] = 1318, [8] = 1319, effect = 488},
 -- Zabuza
-[43] = [1] = 853, [2] = 854, [3] = 855, [4] = 856, [5] = 1602, [6] = 1603, [7] = 968, [8] = 969, effect = 608},
--- Asuma
-[44] = [1] = 853, [2] = 854, [3] = 855, [4] = 856, [5] = 1602, [6] = 1603, [7] = 968, [8] = 969, effect = 608},
+[43] = {[1] = 2139, [2] = 2140, [3] = 2141, [4] = 2130, [5] = 2130, [6] = 2131, [7] = 2142, [8] = 2143, effect = 398},
+-- Juugo
+[44] = {[1] = 1974, [2] = 1975, [3] = 1976, [4] = 1977, [5] = 1978, [6] = 1971, [7] = 1972, [8] = 1973, effect = 618},
 -- Kimimaru
-[45] = [1] = 853, [2] = 854, [3] = 855, [4] = 856, [5] = 1602, [6] = 1603, [7] = 968, [8] = 969, effect = 608},
--- Karin
-[46] = [1] = 853, [2] = 854, [3] = 855, [4] = 856, [5] = 1602, [6] = 1603, [7] = 968, [8] = 969, effect = 608},
+[45] = {[1] = 2063, [2] = 2065, [3] = 2070, [4] = 2070, [5] = 2071, [6] = 2073, [7] = 2074, [8] = 2075, effect = 182},
+-- Haku
+[46] = {[1] = 2048, [2] = 2050, [3] = 2051, [4] = 2053, [5] = 2055, [6] = 2057, [7] = 2059, [8] = 2060, effect = 621},
 -- Menma
-[47] = [1] = 853, [2] = 854, [3] = 855, [4] = 856, [5] = 1602, [6] = 1603, [7] = 968, [8] = 969, effect = 608},
+[47] = {[1] = 1208, [2] = 1209, [3] = 1210, [4] = 1211, [5] = 1211, [6] = 1212, [7] = 2122, [8] = 1213, effect = 599},
 -- Konohamaru
-[48] = [1] = 853, [2] = 854, [3] = 855, [4] = 856, [5] = 1602, [6] = 1603, [7] = 968, [8] = 969, effect = 608},
+[48] = {[1] = 1984, [2] = 1983, [3] = 1985, [4] = 1986, [5] = 1987, [6] = 1980, [7] = 1981, [8] = 1982, effect = 600},
 -- Mei
-[49] = [1] = 853, [2] = 854, [3] = 855, [4] = 856, [5] = 1602, [6] = 1603, [7] = 968, [8] = 969, effect = 608},
+[49] = {[1] = 2077, [2] = 2078, [3] = 2079, [4] = 2080, [5] = 2082, [6] = 2083, [7] = 2084, [8] = 2087, effect = 600},
 -- Zetsu
-[50] = [1] = 853, [2] = 854, [3] = 855, [4] = 856, [5] = 1602, [6] = 1603, [7] = 968, [8] = 969, effect = 608},
+[50] = {[1] = 2026, [2] = 2028, [3] = 2029, [4] = 2030, [5] = 2031, [6] = 2032, [7] = 2033, [8] = 2034, effect = 619},
 }
 
 
@@ -109,13 +109,13 @@ function onSay(cid, words, param, channel)
 
 
  if(param == '') then
-  doPlayerSendTextMessage(cid, MESSAGE_STATUS_CONSOLE_BLUE, "[Saga] Informe o número da saga Ex : !saga 2")
+  doPlayerSendTextMessage(cid, MESSAGE_STATUS_CONSOLE_BLUE, "[Saga] Informe o nï¿½mero da saga Ex : !saga 2")
   return true
  end
 
 
 if not transform[getPlayerVocation(cid)] then
-doPlayerSendTextMessage(cid, MESSAGE_STATUS_CONSOLE_BLUE, "Você não pode trocar de saga agora.")
+doPlayerSendTextMessage(cid, MESSAGE_STATUS_CONSOLE_BLUE, "Vocï¿½ nï¿½o pode trocar de saga agora.")
 return true
 end
 
@@ -124,19 +124,19 @@ local t = string.explode(param, ",")
 
 
  if(t[2]) then
-  doPlayerSendTextMessage(cid, MESSAGE_STATUS_CONSOLE_BLUE, "Comando não identificado.")
+  doPlayerSendTextMessage(cid, MESSAGE_STATUS_CONSOLE_BLUE, "Comando nï¿½o identificado.")
   return true
  end
 
 
  if not (tonumber(t[1])) then
-  doPlayerSendTextMessage(cid, MESSAGE_STATUS_CONSOLE_BLUE, "[Saga] Informe o número da saga Ex : !saga 2")
+  doPlayerSendTextMessage(cid, MESSAGE_STATUS_CONSOLE_BLUE, "[Saga] Informe o nï¿½mero da saga Ex : !saga 2")
   return true
  end
 
 
 if tonumber(t[1]) > #transform[getPlayerVocation(cid)] or tonumber(t[1]) < 1  then
-doPlayerSendTextMessage(cid, MESSAGE_STATUS_CONSOLE_BLUE, "[Erro] Essa saga não existe.")
+doPlayerSendTextMessage(cid, MESSAGE_STATUS_CONSOLE_BLUE, "[Erro] Essa saga nï¿½o existe.")
 return true
 end
 
@@ -144,10 +144,10 @@ end
 if getPlayerLevel(cid) >= (tonumber(t[1])*level) then
 doSetCreatureOutfit(cid, {lookType = transform[getPlayerVocation(cid)][tonumber(t[1])]}, -1)
 doSendMagicEffect(getThingPos(cid), transform[getPlayerVocation(cid)].effect)
-doPlayerSendTextMessage(cid, 25, "Parabéns, Você alterou sua saga !")
+doPlayerSendTextMessage(cid, 25, "Parabï¿½ns, Vocï¿½ alterou sua saga !")
 doPlayerSay(cid, "Aaahhh !", TALKTYPE_ORANGE_1)
 else
-doPlayerSendTextMessage(cid, MESSAGE_STATUS_CONSOLE_BLUE, "[Aviso] Desculpe mas você precisa estar no level "..(tonumber(t[1]) * level).." para usar essa saga.")
+doPlayerSendTextMessage(cid, MESSAGE_STATUS_CONSOLE_BLUE, "[Aviso] Desculpe mas vocï¿½ precisa estar no level "..(tonumber(t[1]) * level).." para usar essa saga.")
 end
 
 

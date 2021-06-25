@@ -8,5 +8,5 @@
 		<stage minlevel="400"  maxlevel="499"   multiplier="75"/>
 		<stage minlevel="500"  maxlevel="599"   multiplier="50"/>
 		<stage minlevel="600"  maxlevel="601"   multiplier="1"/>
-		<stage minlevel="602"  maxlevel="9"   multiplier="0"/>
+		<stage minlevel="602"  maxlevel="900"   multiplier="0"/>
 </stages>

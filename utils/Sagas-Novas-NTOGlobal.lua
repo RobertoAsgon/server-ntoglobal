@@ -46,6 +46,8 @@
 [22] = { 1614, 1615, 1616, 846, 847, 1619, 1620, 1794, Anbu= 931, Akat= 932, Otsu= 1391, Kage= 1434, Efeito = 620  }
 -- Temari 
 [23] = { 1959, 1958, 1957, 1956, 1952, 1950, 1953, 1701, Anbu= 908, Akat= 909, Otsu= 1401, Kage= 1298, Efeito = 597  }
+
+// NEWS
 -- Nagato 
 [24] = { 853, 854, 855, 856, 1602, 1603, 968, 969, Anbu= 932, Akat= 933, Otsu= 1393, Kage= 1434, Efeito = 608  }
 -- Itachi 
@@ -71,32 +73,32 @@
 -- Kankuro
 [35] = { 619, 620, 622, 623, 1779, 1775, 1776, 1780, Anbu= 906, Akat= 907, Otsu= 1389, Kage= 1434, Efeito = 596  }
 -- Guy
-[36] = { X, X, X, X, X, X, X, X, Anbu= X, Akat= X, Otsu= X, Kage= X, Efeito = X  }
+[36] = { 1485, 1486, 1487, 1488, 1489, 1491, 1492, 1493, Anbu= 1557, Akat= 1689, Otsu= 1372, Kage= 1434, Efeito = 617  }
 -- Hinata
-[37] = { X, X, X, X, X, X, X, X, Anbu= X, Akat= X, Otsu= X, Kage= X, Efeito = X  }
+[37] = { 2092, 2094, 2095, 2096, 2098, 2099, 2100, 2101, Anbu= 898, Akat= 899, Otsu= 1383, Kage= 1434, Efeito = 513  }
 -- Ino
-[38] = { X, X, X, X, X, X, X, X, Anbu= X, Akat= X, Otsu= X, Kage= X, Efeito = X  }
+[38] = { 1671, 1673, 1674, 1675, 1676, 1677, 1678, 965, Anbu= 902, Akat= 903, Otsu= 1384, Kage= 1297, Efeito = 388  }
 -- Kabuto
-[39] = { X, X, X, X, X, X, X, X, Anbu= X, Akat= X, Otsu= X, Kage= X, Efeito = X  }
+[39] = { 2112, 2114, 2116, 2117, 2118, 2119, 2120, 2121, Anbu= 2037, Akat= 911, Otsu= 1387, Kage= 1434, Efeito = 100  }
 -- Kakuzo
-[40] = { X, X, X, X, X, X, X, X, Anbu= X, Akat= X, Otsu= X, Kage= X, Efeito = X  }
+[40] = { 2102, 2104, 2105, 2106, 2108, 2109, 2110, 2111, Anbu= 924, Akat= 925, Otsu= 1388, Kage= 1434, Efeito = 488  }
 -- Raikage
-[41] = { X, X, X, X, X, X, X, X, Anbu= X, Akat= X, Otsu= X, Kage= X, Efeito = X  }
+[41] = { 1127, 1129, 1131, 1132, 1133, 1138, 1141, 1143, Anbu= 1144, Akat= 1145, Otsu= 1396, Kage= 1434, Efeito = 607  }
 -- Sasori
-[42] = { X, X, X, X, X, X, X, X, Anbu= X, Akat= X, Otsu= X, Kage= X, Efeito = X  }
+[42] = { 1307, 1310, 1311, 1313, 1315, 1316, 1318, 1319, Anbu= 2123, Akat= 1314, Otsu= 2001, Kage= 1434, Efeito = 488  }
 -- Zabuza
-[43] = { X, X, X, X, X, X, X, X, Anbu= X, Akat= X, Otsu= X, Kage= X, Efeito = X  }
--- Asuma
-[44] = { X, X, X, X, X, X, X, X, Anbu= X, Akat= X, Otsu= X, Kage= X, Efeito = X  }
+[43] = { 2139, 2140, 2141, 2130, 2130, 2131, 2142, 2143, Anbu= 1529, Akat= 1528, Otsu= 2004, Kage= 1434, Efeito = 398  }
+-- Juugo
+[44] = { 1974, 1975, 1976, 1977, 1978, 1971, 1972, 1973, Anbu= 2124, Akat= 1970, Otsu= 2144, Kage= 1434, Efeito = 618  }
 -- Kimimaru
-[45] = { X, X, X, X, X, X, X, X, Anbu= X, Akat= X, Otsu= X, Kage= X, Efeito = X  }
+[45] = { 2063, 2065, 2070, 2070, 2071, 2073, 2074, 2075, Anbu= 1066, Akat= 2089, Otsu= 2013, Kage= 1434, Efeito = 182  }
 -- Haku
-[46] = { X, X, X, X, X, X, X, X, Anbu= X, Akat= X, Otsu= X, Kage= X, Efeito = X  }
+[46] = { 2048, 2050, 2051, 2053, 2055, 2057, 2059, 2060, Anbu= 2061, Akat= 2062, Otsu= 2010, Kage= 1434, Efeito = 621  }
 -- Menma
-[47] = { X, X, X, X, X, X, X, X, Anbu= X, Akat= X, Otsu= X, Kage= X, Efeito = X  }
+[47] = { 1208, 1209, 1210, 1211, 1211, 1212, 2122, 1213, Anbu= 1215, Akat= 1214, Otsu= 1998, Kage= 1434, Efeito = 599  }
 -- Konohamaru
-[48] = { X, X, X, X, X, X, X, X, Anbu= X, Akat= X, Otsu= X, Kage= X, Efeito = X  }
+[48] = { 1984, 1983, 1985, 1986, 1987, 1980, 1981, 1982, Anbu= 2146, Akat= 2145, Otsu= 2014, Kage= 1434, Efeito = 600  }
 -- Mei
-[49] = { X, X, X, X, X, X, X, X, Anbu= X, Akat= X, Otsu= X, Kage= X, Efeito = X  }
+[49] = { 2077, 2078, 2079, 2080, 2082, 2083, 2084, 2087, Anbu= 2146, Akat= 2088, Otsu= 1991, Kage= 1434, Efeito = 600  }
 -- Zetsu
-[50] = { X, X, X, X, X, X, X, X, Anbu= X, Akat= X, Otsu= X, Kage= X, Efeito = X  }
+[50] = { 2026, 2028, 2029, 2030, 2031, 2032, 2033, 2034, Anbu= 2091, Akat= 1440, Otsu= 2005, Kage= 1434, Efeito = 619  }
